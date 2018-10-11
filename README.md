@@ -1,4 +1,4 @@
-# awesome_app
+# Credit
 
 > A Vue.js project
 
