@@ -1,0 +1,57 @@
+// element-ui
+.el-textarea
+  width: auto
+.el-input
+  width: auto
+.el-collapse
+  border-bottom: none
+.el-collapse-item__header
+  min-height: 48px
+  height: auto
+  &.focusing:focus:not(:hover)
+    color: inherit
+.el-tabs--border-card
+  &>.el-tabs__header
+    border-bottom: 3px solid $--color-primary
+    .el-tabs__item.is-active
+      color: $--color-white
+      background-color: $--color-primary
+  &>.el-tabs__content
+    background-color: $--background-color-base
+
+.el-table__body-wrapper
+  overflow-x: hidden
+
+.el-submenu .el-menu-item
+  height: $--menuitem-height
+  line-height: $--menuitem-height
+.el-submenu__title
+  height: $--menuitem-height
+  line-height: $--menuitem-height
+
+.el-dialog__close.el-icon-close
+  font-size: 2rem
+.el-form-item.is-required .el-form-item__label
+  &:before
+    content: ''
+  &:after
+    content: '*'
+    margin-left: .25rem
+    color: $--color-danger
+
+.el-dialog__title
+  color: $--color-primary
+.el-dialog__wrapper
+  .el-select
+    width: 100%
+  .el-textarea
+    width: 100%
+  .el-cascader
+    width: 100%
+  .el-input
+    width: 100%
+  .el-autocomplete
+    width: 100%
+
+.el-loading-mask
+  z-index: inherit

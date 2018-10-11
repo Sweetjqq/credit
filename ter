@@ -1,0 +1,35 @@
+[33m8a05ff6[m HEAD@{0}: commit: 图片跨域请求传输解决
+[33m1a4184f[m HEAD@{1}: pull origin master: Merge made by the 'recursive' strategy.
+[33md98ea8a[m HEAD@{2}: commit: 修改文案
+[33m4108d2a[m HEAD@{3}: commit: 修改流程
+[33mcb3a088[m HEAD@{4}: commit: 添加返回
+[33m56c2771[m HEAD@{5}: pull origin master: Fast-forward
+[33ma1117ec[m HEAD@{6}: checkout: moving from a1117ec670573d11d9100a32bf437450a1ecb5bb to master
+[33ma1117ec[m HEAD@{7}: checkout: moving from master to remotes/origin/master
+[33ma1117ec[m HEAD@{8}: checkout: moving from a1117ec670573d11d9100a32bf437450a1ecb5bb to master
+[33ma1117ec[m HEAD@{9}: checkout: moving from master to remotes/origin/master
+[33ma1117ec[m HEAD@{10}: commit: 提交新认证
+[33m2fc2959[m HEAD@{11}: commit: if
+[33mf009353[m HEAD@{12}: pull origin master: Merge made by the 'recursive' strategy.
+[33m4763349[m HEAD@{13}: commit: 富文本编辑器img样式处理
+[33m08821fe[m HEAD@{14}: pull origin master: Merge made by the 'recursive' strategy.
+[33mcadf6c5[m HEAD@{15}: commit: 上传图片完成联调
+[33m9e21388[m HEAD@{16}: commit: 每个页面添加loadding
+[33m68f172b[m HEAD@{17}: pull origin master: Merge made by the 'recursive' strategy.
+[33m4252772[m HEAD@{18}: commit: {}
+[33m1b9fed5[m HEAD@{19}: commit: 抽取数据成功
+[33m24bb1b1[m HEAD@{20}: commit: 公共头部封装组件
+[33m4588ac6[m HEAD@{21}: commit: if
+[33mab58d73[m HEAD@{22}: pull origin master: Merge made by the 'recursive' strategy.
+[33md4143ef[m HEAD@{23}: commit: 公共头部，和和公共table组件分离
+[33m916458b[m HEAD@{24}: commit: 添加loadding
+[33me55980d[m HEAD@{25}: commit: 页面跳转
+[33m083e653[m HEAD@{26}: commit: 编辑报告修改成功
+[33m3af2689[m HEAD@{27}: commit: 修改title
+[33mdbfdd5e[m HEAD@{28}: commit: 添加报告，接口完成，合并代码
+[33m580dae1[m HEAD@{29}: commit: 接口联调完成
+[33mef02824[m HEAD@{30}: commit: 编辑页面，生成报告
+[33mc5b295c[m HEAD@{31}: commit: 保存信评报告接口
+[33maa883ac[m HEAD@{32}: commit: 代码合并
+[33me22b479[m HEAD@{33}: pull origin master: Fast-forward
+[33me9b77b4[m HEAD@{34}: clone: from http://192.168.10.11:8080/scm/git/YaoQ.Beehive.CreditGradeWebSite
